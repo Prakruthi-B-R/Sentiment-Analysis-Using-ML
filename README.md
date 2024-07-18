@@ -29,10 +29,10 @@ The project uses various machine learning models for sentiment analysis, includi
 
 **Results**
 The models are evaluated on accuracy, precision, recall, and F1-score. Below are the results for the best-performing model:
-# Accuracy: 85%
-# Precision: 84%
-# Recall: 83%
-# F1-score: 83%
+# Accuracy: 78%
+# Precision: 79%
+# Recall: 76%
+# F1-score: 77%
 
 
 
